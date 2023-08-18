@@ -75,7 +75,7 @@
         </div>
         <div class="col-7">
             <ul class="nav" style="display: block;">
-                <li><a href="index.php" >Trang chủ</a></li>
+                <li><a href="index.html" >Trang chủ</a></li>
                 <li>
                     <a href="gioithieu.php">Giới thiệu</a>
                     <ul class="submenu">
